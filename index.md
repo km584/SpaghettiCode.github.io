@@ -1,12 +1,8 @@
-![ci-badge](https://github.com/SpaghettiCode/badge.svg)
+Kings Fall
 * [Team members](#team-members)
 
 ## Team Members ##
 
-- Winston Co
-- Ruben Jacobo
-- Raymond Lai
-- Braydon Nagasako
-- Kevin Nahainu
+- Gerald Matthew Huff
+- Kenneth Allen De Guzman
 - Kairi Tanaka
-- Nathaniel Tomchak
