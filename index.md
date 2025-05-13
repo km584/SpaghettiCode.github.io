@@ -40,7 +40,7 @@ The player's character is a knight, formerly a part of the highly-decorated King
 
 <figure style="text-align:center;">
   <figcaption style="color:black;"><em>Start of Dungeon Area</em></figcaption>
-  <img src="/img/level-1-dungeon.PNG" alt="Level 1"/>
+  <img src="img/level-1-dungeon.PNG" alt="Level 1"/>
 </figure>
 
 <!-- Padding for space between sections-->
@@ -50,7 +50,7 @@ The player's character is a knight, formerly a part of the highly-decorated King
 
 <figure style="text-align:center;">
   <figcaption style="color:black;"><em>Start of Castle Area</em></figcaption>
-  <img src="/img/level-6-castle.PNG" alt="Level 6"/>
+  <img src="img/level-6-castle.PNG" alt="Level 6"/>
 </figure>
 
 <!-- Padding for space between sections-->
@@ -60,7 +60,7 @@ The player's character is a knight, formerly a part of the highly-decorated King
 
 <figure style="text-align:center;">
   <figcaption style="color:black;"><em>Dungeon Boss</em></figcaption>
-  <img src="/img/boss-1.PNG" alt="Dungeon Boss"/>
+  <img src="img/boss-1.PNG" alt="Dungeon Boss"/>
 </figure>
 
 <!-- Padding for space between sections-->
@@ -70,7 +70,7 @@ The player's character is a knight, formerly a part of the highly-decorated King
 
 <figure style="text-align:center;">
   <figcaption style="color:black;"><em>Castle Boss</em></figcaption>
-  <img src="/img/boss-2.PNG" alt="Castle Boss"/>
+  <img src="img/boss-2.PNG" alt="Castle Boss"/>
 </figure>
 
 <!-- Padding for space between sections-->
